@@ -1,6 +1,6 @@
 ### Hi! I'm Venkataramanan Krishnan (Venkat) 👋
 
-<img src="https://raw.githubusercontent.com/venkat-krish/venkat-krish/git-profile-banner.png" />
+<img src="https://raw.githubusercontent.com/venkat-krish/venkat-krish/master/git-profile-banner.png" alt="Venkat profile banner" />
 <!--
 **venkat-krish/venkat-krish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
